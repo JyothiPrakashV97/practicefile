@@ -1,2 +1,0 @@
-# practicefile
-My practices files
